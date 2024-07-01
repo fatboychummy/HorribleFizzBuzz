@@ -129,7 +129,7 @@ hands. I am going to make my own terrible fizzbuzz implementation from scratch.
 #### Starting With Some Ground Rules
 
 1. The code must be able to run.
-2. The code must be as unreadable as possible.
+2. The code must be as unreadable as possible (no minifiers/bytecode).
 3. The code must output according to the Fizz Buzz rules.
 
 With that in mind, let's get started. I'm going to start by breaking down the
@@ -145,7 +145,7 @@ together.
 <details> <summary>(spoiler) All Rules</summary>
 
 1. The code must be able to run.
-2. The code must be as unreadable as possible.
+2. The code must be as unreadable as possible (no minifiers/bytecode).
 3. The code must output according to the Fizz Buzz rules.
 4. Variables must be limited according to the [variable rules](#variable-rules).
 5. No usage of basic `if` statements allowed at all. See the
@@ -201,7 +201,7 @@ So, new rule:
 <details> <summary>Current Rules</summary>
 
 1. The code must be able to run.
-2. The code must be as unreadable as possible.
+2. The code must be as unreadable as possible (no minifiers/bytecode).
 3. The code must output according to the Fizz Buzz rules.
 4. ***Variables must be limited according to the [variable rules](#variable-rules).***
 
@@ -357,7 +357,7 @@ So, new rule:
 <details> <summary>Current Rules</summary>
 
 1. The code must be able to run.
-2. The code must be as unreadable as possible.
+2. The code must be as unreadable as possible (no minifiers/bytecode).
 3. The code must output according to the Fizz Buzz rules.
 4. Variables must be limited according to the [variable rules](#variable-rules).
 5. ***No usage of basic `if` statements allowed at all. See the***
@@ -381,7 +381,7 @@ So, new rule:
 <details> <summary>Current Rules</summary>
 
 1. The code must be able to run.
-2. The code must be as unreadable as possible.
+2. The code must be as unreadable as possible (no minifiers/bytecode).
 3. The code must output according to the Fizz Buzz rules.
 4. Variables must be limited according to the [variable rules](#variable-rules).
 5. No usage of basic `if` statements allowed at all. See the
@@ -401,7 +401,7 @@ There are a few more things we can do to make the code unreadable.
 <details> <summary>Current Rules</summary>
 
 1. The code must be able to run.
-2. The code must be as unreadable as possible.
+2. The code must be as unreadable as possible (no minifiers/bytecode).
 3. The code must output according to the Fizz Buzz rules.
 4. Variables must be limited according to the [variable rules](#variable-rules).
 5. No usage of basic `if` statements allowed at all. See the
